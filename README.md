@@ -1,10 +1,10 @@
-# 📦 Inventory Management System (Grosir)
+#  Inventory Management System (Grosir)
 
 Aplikasi Web Manajemen Inventaris Toko Grosir berbasis PHP Native & MySQL. Sistem ini dibuat untuk mengelola data produk, kategori, stok barang masuk dan keluar, serta menghitung nilai aset gudang secara otomatis dengan dukungan keamanan berbasis *role— Inventory Management System**.
 
 
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **Autentikasi & Keamanan:**
   - Login & Logout berbasis Session.
@@ -26,14 +26,14 @@ Aplikasi Web Manajemen Inventaris Toko Grosir berbasis PHP Native & MySQL. Siste
 
 ---
 
-## 🎨 Tampilan & Desain Visual
+##  Tampilan & Desain Visual
 
 - **Tema Warna:** Krem & Cokelat Warm (#8b5a2b, #6e441f, #f5f0eb, #faf7f4).
 - **Tata Letak:** *Centered Flexbox* (Form dan tabel berada persis di tengah layar).
 
 ---
 
-## 🛠️ Persyaratan Sistem & Teknologi
+##  Persyaratan Sistem & Teknologi
 
 - **PHP:** Version 7.4 / 8.x
 - **Database:** MySQL / MariaDB
@@ -42,7 +42,7 @@ Aplikasi Web Manajemen Inventaris Toko Grosir berbasis PHP Native & MySQL. Siste
 
 ---
 
-## 📂 Struktur Folder Project
+##  Struktur Folder Project
 
 ```text
 inventory-grosir/
