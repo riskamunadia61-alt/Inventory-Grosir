@@ -61,6 +61,7 @@ inventory-grosir/
 │   └── transaction_history.php # Halaman Laporan Riwayat Transaksi
 └── README.md                 # Dokumentasi Project
 
+```
 ## Aturan Bisnis (Business Rules)
 1. Kode SKU produk harus bersifat unik di seluruh database.
 2. Stok dan harga produk tidak boleh bernilai negatif.
