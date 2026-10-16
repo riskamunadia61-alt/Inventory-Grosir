@@ -60,3 +60,9 @@ inventory-grosir/
 │   ├── stock_transaction.php# Form Input Transaksi Stok (Masuk/Keluar)
 │   └── transaction_history.php # Halaman Laporan Riwayat Transaksi
 └── README.md                 # Dokumentasi Project
+
+**## **Aturan Bisnis (Business Rules)****
+1. Kode SKU produk harus bersifat unik di seluruh database.
+2. Stok dan harga produk tidak boleh bernilai negatif.
+3. Hak akses hapus produk dibatasi khusus untuk user ber-role Admin.
+4. Pengurangan stok (Barang Keluar) dan penambahan stok (Barang Masuk) akan otomatis terhubung dengan pencatatan riwayat transaksi stok.
